@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Peter 👋
 
 <!--
 **peti2001/peti2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">Languages and Tools I used recently:</h3>
+<p align="center">
+  <a href="https://profile.codersrank.io/user/nolimits4web" target="_blank">
+    <img src="https://skills-chart.nolimits4web.workers.dev/?username=peti2001&skills=JavaScript,TypeScript,Vue,Go,Makefile,Python&width=820" alt="CodersRank skills chart"/>
+  </a>
+</p>
