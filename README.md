@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Languages and Tools I used recently:</h3>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=peti2001" alt="CodersRank badge" />
 <p align="center">
   <a href="https://profile.codersrank.io/user/peti2001" target="_blank">
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=peti2001&skills=JavaScript,TypeScript,Vue,Go,Makefile,Python&width=820" alt="CodersRank skills chart"/>
