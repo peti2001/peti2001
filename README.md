@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=peti2001&a=1" alt="CodersRank badge" width="420" />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=peti2001&a=2" alt="CodersRank badge" width="420" />
 <h2 align="center">Languages and Tools I used recently:</h3>
 <p align="center">
   <a href="https://profile.codersrank.io/user/peti2001" target="_blank">
